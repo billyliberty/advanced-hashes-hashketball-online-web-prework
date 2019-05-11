@@ -150,9 +150,10 @@ def team_names
   game_hash.map do |location, team_data|
     team_data[:team_name]
   end
+  team_names
 end
 
-team_names
+
 
 def player_numbers(name)
   jersey_Array = []
