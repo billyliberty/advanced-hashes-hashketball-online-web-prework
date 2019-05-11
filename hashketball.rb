@@ -174,4 +174,3 @@ def player_numbers(name)
 end
   jersey_Array
 end
-
