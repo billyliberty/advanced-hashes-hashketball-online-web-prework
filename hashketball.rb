@@ -152,7 +152,7 @@ def team_names
   end
 end
 
-team names
+team_names
 
 def player_numbers(name)
   jersey_Array = []
