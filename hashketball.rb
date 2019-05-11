@@ -158,8 +158,6 @@ def team_names
  teams_array
  end
 
-  end
-end
 
 
 
