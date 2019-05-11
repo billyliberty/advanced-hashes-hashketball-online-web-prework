@@ -152,6 +152,8 @@ def team_names
   end
 end
 
+team names
+
 def player_numbers(name)
   jersey_Array = []
   game_hash.each do |location, team_data|
